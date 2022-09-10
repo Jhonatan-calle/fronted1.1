@@ -1,0 +1,13 @@
+.img{
+    width: 4em;
+    height: 4em;
+}
+.seccion{
+    border: 1px solid;
+    border-radius: 30px;
+    padding: 1em;
+    margin: 1em;
+}
+span{
+    font-family: italy;
+}
