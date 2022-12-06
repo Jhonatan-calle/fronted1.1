@@ -3,8 +3,11 @@
     height: 4em;
 }
 .seccion{
-    border: 1px solid;
-    border-radius: 1em;
+    border: 1px solid ;
+    border-radius: 15px;
+    margin: 5px;
+    
+
 }
 span{
     font-family: italy;
